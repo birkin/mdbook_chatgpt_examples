@@ -1,6 +1,7 @@
-# DMV
+# Amusing
 
-__write a biblical verse in the style of the king james bible explaining how to be patient when making a phone call to the department of motor-vehicles__
+
+## __"write a biblical verse in the style of the king james bible explaining how to be patient when making a phone call to the department of motor-vehicles"__
 
 Verily I say unto thee, when thou makest a phone call unto the department of motor-vehicles, thou must exercise patience, for the line may be long and the wait may be great.
 
@@ -12,7 +13,7 @@ And if thou remain steadfast in thy patience, lo, thou shalt surely reach the en
 
 Therefore, let thy heart be calm, and thy tongue be measured, and thou shalt find favor in the sight of the Lord and in the eyes of those who serve thee.
 
-__thx, but can you change that last paragraph not use the word "Lord"?__
+## __"thx, but can you change that last paragraph not use the word "Lord"?"__
 
 Certainly, here's the revised last paragraph:
 

@@ -1,4 +1,4 @@
-# Harry Potter game
+# Personas - potter
 
 - 2023-Feb-25 birkin session...
 

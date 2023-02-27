@@ -13,9 +13,17 @@
     - [what are NNs?](./02c_terms_what-are-nns.md)
     - [extra](./02d_terms_extra.md)
 
-- [DMV](./dmv.md)
+- [Amusing](./03_amusing.md)
+    - [Amusing - jokes](./03a_amusing_lib_jokes.md)
+    - [Amusing - biblical](./03b_amusing_DMV.md)
 
-- [Harry Potter game](./harry_potter.md)
+- [Impressive](./04_impressive.md)
+    - [Impressive - EV arguments](./04a_impressive_ev_arguments.md)
+
+- [Personas](./05_personas.md)
+    - [Personas - potter](./05a_personas_potter.md)
+    - [Personas - bartender](./05b_personas_bartender.md)
+    - [Personas - forthright-listing](./05c_personas_listing.md)
 
 - [Persona vs Model -- averaging-data](./persona_vs_model_data.md)
 
