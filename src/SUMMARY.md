@@ -6,16 +6,12 @@
     - [what are you?](./01a_define_self_what-are-you.md)
     - [language_model?](./01b_define_self_language_model.md)
 
-- [Terms](./terms.md)
-    - [what is AI?](./02a_terms_what-is-ai.md)
-    - [what is ML?](./02b_terms_what-is-ml.md)
-    - [what are models?](./02b2_what-are-models.md)
-    - [what are NNs?](./02c_terms_what-are-nns.md)
-    - [extra](./02d_terms_extra.md)
+- [Terms - AI-ML-models](./terms_AI_ML.md)
+- [Terms - NNs](./terms_NNs.md)
 
-- [Amusing](./03_amusing.md)
-    - [Amusing - jokes](./03a_amusing_lib_jokes.md)
-    - [Amusing - biblical](./03b_amusing_DMV.md)
+- [Amusing - jokes](./amusing_lib_jokes.md)
+- [Amusing - biblical](./amusing_DMV.md)
+
 
 - [Impressive](./04_impressive.md)
     - [Impressive - EV arguments](./04a_impressive_ev_arguments.md)
@@ -29,6 +25,10 @@
 
 - [Persona vs Model -- no Danish](./persona_vs_model_no_danish.md)
 
-- [Code examples](./code_examples.md)
+- [Data example](./data_example.md)
+
+- [Code example - python weather-api](./code_python_weather.md)
+
+- [Code example - rust explanation](./code_rust_explanation.md)
 
 - [Misc](./misc.md)

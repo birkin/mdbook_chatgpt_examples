@@ -1,14 +1,14 @@
-# Amusing
+# Amusing - jokes
 
 
-## __"tell me a joke related to Libraries."__
+## tell me a joke related to Libraries.
 
 Why did the librarian slip and fall on the floor?
 
 Because she was in the non-friction section!
 
 
-## __"tell me a different joke related to Libraries."__
+## tell me a different joke related to Libraries.
 
 Why do librarians love to read horror books?
 

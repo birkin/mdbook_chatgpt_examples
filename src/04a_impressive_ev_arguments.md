@@ -1,7 +1,7 @@
 # Impressive - EV arguments
 
 
-## __"what are some arguments for why electric vehicles should be subsidized?"__
+## what are some arguments for why electric vehicles should be subsidized?
 
 There are several arguments in favor of subsidizing electric vehicles:
 
