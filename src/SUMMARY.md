@@ -27,8 +27,12 @@
 
 - [Data example](./data_example.md)
 
-- [Code example - python weather-api](./code_python_weather.md)
+- [Code - python weather-api](./code_python_weather.md)
 
-- [Code example - rust explanation](./code_rust_explanation.md)
+- [Code - rust explanation](./code_rust_explanation.md)
+
+- [Wrong - citations](./wrong_citations.md)
+
+- [Good for](./good_for.md)
 
 - [Misc](./misc.md)
